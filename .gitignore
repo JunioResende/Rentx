@@ -1,0 +1,13 @@
+node_modules/
+
+dist/
+
+.vscode/
+
+ormconfig.json
+
+Dockerfile
+docker-compose.yml
+
+tmp/*
+!tmp/.gitkeep
